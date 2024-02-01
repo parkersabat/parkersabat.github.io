@@ -18,12 +18,14 @@ const levels = {
   650: "Hermit",
   1000: "Senior Hermit",
   1500: "CEO",
+  2000: "Protecter",
   2500: "Pope",
   3500: "Underlord",
   4500: "Lord",
   10500: "OverLord",
   20500: "King",
-  30500: "Anunnaki"
+  30500: "Anunnaki",
+  100000: "Child"
 }
 
 const startTime = Date.now();
